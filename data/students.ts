@@ -8,6 +8,8 @@ of a student using the Student interface (which contains the id, firstname, last
 grade, and average). It shows an array of 10 students and exports it. The other files
 in the project uses this array as a starting list (as an import). This file only
 stores the data.
+
+Disclaimer: Some of the comments are generated through the assistance of Claude Sonnet 5.5
 */
 
 //This contains the attributes connected to a Student (what each student must have)
