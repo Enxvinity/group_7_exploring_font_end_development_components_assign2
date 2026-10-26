@@ -9,7 +9,7 @@ const Footer = () => {
         </div>
 
         <div className="text-sm text-amber-50">
-          <p>123 Study Ave NW, Calgary, AB T2E 0A1</p>
+          <p>123 Study Ave NW, Calgary, AB T1K 2L0</p>
           <p>Phone: (403) 123-4567</p>
           <p>Email: office@newgenhigh.ca</p>
         </div>
