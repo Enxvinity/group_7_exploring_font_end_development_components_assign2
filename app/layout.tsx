@@ -21,11 +21,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-        /* Added suppressHydrationWarning to prevent extension conflicts */
-    <html className="scroll-smooth" lang="en" suppressHydrationWarning>
+    <html className="scroll-smooth" lang="en">
       <body className="bg-slate-50 min-h-screen flex flex-col font-sans text-slate-900">
         <Navbar />
-        <main className="grow pt-8 pb-16">
+        <main className="flex-grow pt-8 pb-16">
           {children}
         </main>
         <Footer />
