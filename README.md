@@ -21,3 +21,5 @@
 | 8 | Click Clear all. | The no-students message shows, and all three numbers are 0. | Pass |
 | 9 | Narrow the browser to phone width (DevTools device toolbar). | The cards stack in one column, and nothing scrolls sideways. | Pass |
 | 10 | Click each link in the navbar. | The page jumps to that section. | Pass |
+
+AI was used to help assist in the creation of this README and was also used to grade and assist in the overall code.
